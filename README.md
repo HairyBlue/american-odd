@@ -6,11 +6,14 @@ The purpose of this repo is to demonstrate how american odd be calculate in simp
 
 ## Installation
 ```bash
-npm i 
+npm install 
 ```
 
 # Usage
 ```bash
-npx ts-node americanodd.ts
+npm run dev
 ```
 
+![americanOddFunction](https://raw.githubusercontent.com/HairyBlue/public-images/main/american-odd/american-odd-function.png)
+
+![result](https://raw.githubusercontent.com/HairyBlue/public-images/main/american-odd/result-1.png)
