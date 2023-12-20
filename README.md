@@ -16,4 +16,6 @@ npm run dev
 
 ![americanOddFunction](https://raw.githubusercontent.com/HairyBlue/public-images/main/american-odd/american-odd-function.png)
 
+![index](https://raw.githubusercontent.com/HairyBlue/public-images/main/american-odd/index.png)
+
 ![result](https://raw.githubusercontent.com/HairyBlue/public-images/main/american-odd/result-1.png)
